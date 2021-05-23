@@ -1,0 +1,5 @@
+baseURL = "https://apostoloscuro.com/"
+languageCode = "es-ES"
+title = "AO"
+theme = "apostoloscuro"
+DefaultContentLanguage = "es"
