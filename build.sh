@@ -1,5 +1,5 @@
 #!/bin/bash
 
-rm -rf public
+# rm -rf public
 
-hugo
+HUGO_ENV=production hugo

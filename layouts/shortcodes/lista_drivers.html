@@ -1,0 +1,3 @@
+{{ range readDir "static/drivers" }} 
+        <div>💾 <a href="/drivers/{{ .Name }}">{{ .Name }}</a></div>
+{{ end }}
